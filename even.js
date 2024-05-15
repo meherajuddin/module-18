@@ -5,7 +5,3 @@ while (number <= 10) {
   number = number + 3;
 }
 
-let person = {
-  name: "lskdjfl",
-  sldkjfdsjd,
-};
